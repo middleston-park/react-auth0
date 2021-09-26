@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Based on info in (Simple React.js User Login Authentication | Auth0):
+https://www.youtube.com/watch?v=MqczHS3Z2bc
+
+# Auth0 Dashboard
+https://manage.auth0.com/
+
+Login = john.sargent@middlestonpark.com.au
+
+
+
